@@ -1,14 +1,5 @@
 # UlulVoice
-[conversation-export-2025-09-19 (1).md](https://github.com/user-attachments/files/22428165/conversation-export-2025-09-19.1.md)
 
-
-builder>>>>
-# Website UlulVoice.com
-
-Saya akan membuat website untuk OSIS SMAIT Ulul Albab dengan nama domain "UlulVoice.com" sesuai permintaan Anda. Berikut implementasi lengkapnya:
-
-```tsx
-import React, { useState } from 'react';
 
 const UlulVoiceWebsite = () => {
   const [activeSection, setActiveSection] = useState('home');
