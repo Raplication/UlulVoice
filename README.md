@@ -1,8 +1,6 @@
 # UlulVoice
 
 
-const UlulVoiceWebsite = () => {
-  const [activeSection, setActiveSection] = useState('home');
 
   return (
     <div className="min-h-screen bg-background text-foreground font-sans">
